@@ -1,5 +1,5 @@
 fprintf("Digits Recogonition Using Neural Network\n")
-
+ 
 %data set used from http://yann.lecun.com/exdb/mnist/
 %NOTE: SOME ARE ARTIFICIALLY CREATED DATA NOT PRESENT IN MNIST DATASET
 
