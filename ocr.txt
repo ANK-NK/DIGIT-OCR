@@ -1,0 +1,4 @@
+A Neural Network (NN) is a wonderful tool that can help to resolve OCR type problems. Of course, the selection of appropriate classifiers is essential. The neural network is an information processing paradigm inspired by the way the human brain processes information. NNs are collections of mathematical models that represent some of the observed properties of biological nervous systems and draw on the analogies of adaptive biological learning. The key element of an NN is its topology. Unlike the original Perceptron model, shown by Minsky and Papert to have limited computational capability, the neural network of today consists of a large number of highly interconnected processing elements (nodes) that are tied together with weighted connections (links). Learning in biological systems involves adjustments to the synaptic connections that exist between the neurons.
+
+
+This OCR implemented by using neural network in OCTAVE a free source software similar to MATLAB.
