@@ -17,7 +17,7 @@ padding= 1;%padding between images
 
 final_display = - ones(padding+ display_rows * (example_height + padding), ...
                        padding + display_cols * (example_width + padding));
-
+ 
                        
 %copying every example into a single array to display
 current_example = 1;
