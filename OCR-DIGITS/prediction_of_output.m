@@ -9,4 +9,4 @@ function result = prediction_of_output(Theta1, Theta2, X)
   	[trash,result(j)] = max(sigmoid(z2 * Theta2'));
 
 end;
-end;
+end; 
